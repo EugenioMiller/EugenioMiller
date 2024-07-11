@@ -17,7 +17,7 @@ Me apasiona crear todo tipo de aplcaciones en la que los usuarios puedan realiza
 
 ### :man_technologist: Tecnologías:
 
-HTML, css, javascript, java, springboot, php, laravel, MySQL, postgreSQL, base de datos no relacionales, git, metodolofías ágiles.
+HTML, css, javascript, java, springboot, php, laravel, angular, MySQL, postgreSQL, base de datos no relacionales, git, metodolofías ágiles.
 
 <!--
 **EugenioMiller/EugenioMiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
